@@ -5,4 +5,3 @@
 def roll( turn = 1 + rand(6))
   puts "#{turn}"
 end
-end
